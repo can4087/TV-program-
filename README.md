@@ -1,53 +1,10 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
-    text-align: center;
-}
+            İP TV
+İçerik sıradan olamaz. Çünkü sıradan olan unutulur.
 
-header {
-    background-color: #2d3e50;
-    color: white;
-    padding: 20px;
-}
+Biz, televizyon dünyasında dengeleri değiştiren içerikler sunuyoruz. Ezber bozan, akılda kalıcı ve izleyiciyi ekrana kilitleyen yapımları sizin için seçiyoruz. Her program bir hikâye anlatır ama bizim programlarımız hikâye yazdırır!
 
-nav ul {
-    list-style-type: none;
-    padding: 0;
-}
+Rekabet sert, izleyici acımasız. Yanlış içerik, markanızı yok eder; doğru içerik sizi zirveye taşır. İşte tam da bu yüzden, biz sadece program satmıyoruz, trendleri belirliyoruz!
 
-nav ul li {
-    display: inline;
-    margin: 0 15px;
-}
+Geleceğin yayıncılığı burada şekilleniyor. İzleyicilerin neyi izleyip neyi unuttuğunu biz biliyoruz. Siz risk almayın, kazanan tarafta olun.
 
-nav ul li a {
-    color: white;
-    text-decoration: none;
-}
-
-main {
-    padding: 20px;
-}
-
-footer {
-    background-color: #2d3e50;
-    color: white;
-    padding: 10px;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}
-
-button {
-    background-color: #4CAF50;
-    color: white;
-    padding: 10px 20px;
-    border: none;
-    cursor: pointer;
-}
-
-button:hover {
-    background-color: #45a049;
-}
+Çünkü içeriğiniz sizi ya büyütür ya da yok eder. Biz büyüten taraftayız. Ya siz?
